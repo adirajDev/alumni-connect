@@ -10,5 +10,5 @@ server:
 logging:
   level:
     root: INFO
-    io.github.aditya123.alumniconnect: DEBUG
+    io.github.adirajdev.alumniconnect: DEBUG
     org.hibernate.SQL: DEBUG
